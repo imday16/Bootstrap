@@ -1,0 +1,25 @@
+- page statique (optionnel)
+
+-page dynamique
+
+-système d'autentification
+
+  -connexion
+  -inscription
+
+  -espace d'administration
+
+      -creation de données 
+      -récupération et affichage des données crées
+      -modification des données
+      -suppression des données
+
+      -mettre en place des relations entre les tables (sgbd relationnelles) sgbd :systeme de gestion de base de données 
+
+      -oneToMany
+      -many to oneToMany
+      -one to one 
+ -affichage du site 
+
+
+      -afficher les différentes informations générées dans le backoffice sur la page que le client va consulter en fonction  de votre propre design    
