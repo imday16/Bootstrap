@@ -1,20 +1,21 @@
-@media screeen and (max-width:400px){
-        .carousel ,.carousel .carousel.item
-        {
-        height: 100vh;
-        width :100%;
-        background: red;;
-        }
-        .carousel .carousel-item{
-            position: absolute;
-            top: 0;
-            left: 100vh;
-            object-fit: cover;
-            object-position: center;
+@media screeen and (max-width:400px) {
+    .carousel, .carousel .carousel.item {
+        height: 50vh;
+        width: 100%;
+        background: red;
+        ;
+    }
 
-
-
-
-        }
+    .carousel .carousel-item {
+        position: absolute;
+        top: 0;
+        left: 100vh;
+        max-height: 50vh;
+        object-fit: cover;
+        object-position: center;
+    }
+.carousel-inner{
+    max-height: 50vh;
+}
 
 }
